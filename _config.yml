@@ -16,7 +16,7 @@
 title: Still in beta
 email: info@stillinbeta.se
 description: > # this means to ignore newlines until "baseurl:"
-  Andreas, Amanda och Anton har precis fått jobb som systemutvecklare efter tre års universitetsstudier. Varje månad träffas de och pratar vad de lärt sig och hur livet som nybliven utvecklare egentligen ser ut.
+  Andreas, Amanda och Anton har precis fått jobb som systemutvecklare efter tre års universitetsstudier. Varje månad träffas de och pratar om vad de lärt sig och hur livet som nybliven utvecklare egentligen ser ut.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stillinbeta.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stillinbetapodd

@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stillinbeta.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stillinbetapodd
 github_username: stillinbetapodd
-permalink: "/:title"
+permalink: "/:title/"
 google_analytics: "UA-87264982-1"
 
 # Build settings

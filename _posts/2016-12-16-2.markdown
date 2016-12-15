@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "2. Ny på jobbet"
+date:   2016-12-16 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4916280/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+
+<p>Idag pratar vi om vad vi gjorde efter att kontraktet var p&aring;skrivet men innan vi faktiskt b&ouml;rjade arbeta, vad ett traineeprogram egentligen &auml;r och hur det var att komma in i gemenskapen p&aring; jobbet. Dessutom pratar vi om den mystiska "dom&auml;nen" och Anton ber&auml;ttar om n&aring;got som fick honom att gr&aring;ta.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring; <a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller <a href="mailto:stillinbetapodd@gmail.com">stillinbetapodd@gmail.com</a>.</p>
+<p>Om du tycker om det vi gör blir vi väldigt glada om du recenserar oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+  
+[Se alla avsnitt.](/)

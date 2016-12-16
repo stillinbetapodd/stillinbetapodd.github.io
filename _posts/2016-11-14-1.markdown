@@ -8,7 +8,7 @@ categories: avsnitt
 <p>Lyssna via <a href="https://itunes.apple.com/se/podcast/det-var-en-gang/id1174070946?i=1000377644669">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
 
 <p>I det allra f&ouml;rsta avsnittet snackar vi om att s&ouml;ka sitt f&ouml;rsta jobb som utvecklare. Om att intervjuer inte &auml;r env&auml;gskommunikation och hur olika tv&aring; intervjuer kan se ut. Vi g&aring;r igenom vilka olika typer av intervjuer vi varit p&aring;, vad vi tycker om dem och att tacka nej till ett jobberbjudande. Till sist delar vi &auml;ven med oss av n&aring;gra tips vi sj&auml;lva g&auml;rna hade f&aring;tt.</p>
-<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring; <a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller <a href="mailto:stillinbetapodd@gmail.com">stillinbetapodd@gmail.com</a>.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring; <a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller <a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
 <p>Om du tycker om det vi gör blir vi väldigt glada om du recenserar oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
   
 [Se alla avsnitt.](/)

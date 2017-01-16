@@ -16,4 +16,6 @@ categories: avsnitt
 <p><span><a href="https://martinfowler.com/bliki/CodeSmell.html" target="_blank">Code Smell</a></span></p>
 <p><span><a href="https://en.wikipedia.org/wiki/Factory_method_pattern" target="_blank">Factory Method Pattern</a></span></p>
   
+-
+
 [Se alla avsnitt.](/)

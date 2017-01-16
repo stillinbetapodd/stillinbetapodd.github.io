@@ -4,7 +4,7 @@ title:  "3. SOLID"
 date:   2017-01-17 05:00:00 +0100
 categories: avsnitt
 ---
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4916280/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4995481/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 <p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
 
 <p>I tredje avsnittet snackar vi programmeringsprinciper. N&auml;rmare best&auml;mt SOLID, 5 principer f&ouml;r objektorienterad design. Om vad de inneb&auml;r, hur de ska f&ouml;ljas och om de faktiskt borde f&ouml;ljas.</p>

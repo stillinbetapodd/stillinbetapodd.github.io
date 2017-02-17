@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "4. Utveckling närmast användaren"
+date:   2017-02-18 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4995481/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+
+<p>Vad inneb&auml;r egentligen front end-utveckling? Idag pratar Andreas och Anton om vad de tycker och tror, vad som frustrerar och vad som &auml;r &ouml;gon&ouml;ppnare. Andreas g&ouml;r ett tappert f&ouml;rs&ouml;k att definiera TypeScript och Anton ber&auml;ttar hur han l&ouml;ste ett CSS-problem genom att spela ett spel. Dessutom en kort &aring;terblick till f&ouml;rra m&aring;nadens avsnitt om SOLID samt hur det var n&auml;r panelen g&auml;stade podcasten Kodsnack.</p>
+
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="http://kodsnack.se/194/" target="_blank">Kodsnack</a></li>
+<li><a href="http://sass-lang.com" target="_blank">Sass</a></li>
+<li><a href="http://lesscss.org" target="_blank">LESS</a></li>
+<li><a href="https://angularjs.org" target="_blank">Angular 1</a></li>
+<li><a href="https://angular.io" target="_blank">Angular 2</a></li>
+<li><a href="https://www.typescriptlang.org" target="_blank">TypeScript</a></li>
+<li><a href="https://www.bennadel.com/blog/2439-my-experience-with-angularjs---the-super-heroic-javascript-mvw-framework.htm">Graf &ouml;ver Angulars inl&auml;rningskurva</a></li>
+<li><a href="https://facebook.github.io/react/" target="_blank">React</a></li>
+<li><a href="http://getbootstrap.com" target="_blank">Bootstrap</a></li>
+<li><a href="http://foundation.zurb.com" target="_blank">Foundation</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes" target="_blank">Flexbox</a></li>
+<li><a href="http://flexboxfroggy.com" target="_blank">Flexbox Froggy</a></li>
+<li><a href="https://webpack.js.org" target="_blank">Webpack</a></li>
+<li><a href="http://gulpjs.com" target="_blank">Gulp</a></li>
+<li><a href="https://nodejs.org/" target="_blank">NodeJS</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

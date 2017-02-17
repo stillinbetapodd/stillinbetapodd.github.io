@@ -10,12 +10,12 @@ categories: avsnitt
 <p>I tredje avsnittet snackar vi programmeringsprinciper. N&auml;rmare best&auml;mt SOLID, 5 principer f&ouml;r objektorienterad design. Om vad de inneb&auml;r, hur de ska f&ouml;ljas och om de faktiskt borde f&ouml;ljas.</p>
 <p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
 <h4>L&auml;nkar</h4>
-<p><span><a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)" target="_blank">SOLID</a></span></p>
-<p><span><a href="https://sites.google.com/site/unclebobconsultingllc/" target="_blank">Bob C. Martin</a></span></p>
-<p><span><a href="https://en.wikipedia.org/wiki/Dependency_injection" target="_blank">Dependency Injection</a></span></p>
-<p><span><a href="https://martinfowler.com/bliki/CodeSmell.html" target="_blank">Code Smell</a></span></p>
-<p><span><a href="https://en.wikipedia.org/wiki/Factory_method_pattern" target="_blank">Factory Method Pattern</a></span></p>
-  
--
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)" target="_blank">SOLID</a></li>
+<li><a href="https://sites.google.com/site/unclebobconsultingllc/" target="_blank">Bob C. Martin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dependency_injection" target="_blank">Dependency Injection</a></li>
+<li><a href="https://martinfowler.com/bliki/CodeSmell.html" target="_blank">Code Smell</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Factory_method_pattern" target="_blank">Factory Method Pattern</a></li>
+</ul>
 
 [Se alla avsnitt.](/)

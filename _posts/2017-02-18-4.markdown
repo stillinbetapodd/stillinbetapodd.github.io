@@ -4,7 +4,7 @@ title:  "4. Utveckling närmast användaren"
 date:   2017-02-18 05:00:00 +0100
 categories: avsnitt
 ---
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4995481/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5095089/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 <p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
 
 <p>Vad inneb&auml;r egentligen front end-utveckling? Idag pratar Andreas och Anton om vad de tycker och tror, vad som frustrerar och vad som &auml;r &ouml;gon&ouml;ppnare. Andreas g&ouml;r ett tappert f&ouml;rs&ouml;k att definiera TypeScript och Anton ber&auml;ttar hur han l&ouml;ste ett CSS-problem genom att spela ett spel. Dessutom en kort &aring;terblick till f&ouml;rra m&aring;nadens avsnitt om SOLID samt hur det var n&auml;r panelen g&auml;stade podcasten Kodsnack.</p>

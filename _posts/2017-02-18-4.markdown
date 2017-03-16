@@ -10,6 +10,7 @@ categories: avsnitt
 <p>Vad inneb&auml;r egentligen front end-utveckling? Idag pratar Andreas och Anton om vad de tycker och tror, vad som frustrerar och vad som &auml;r &ouml;gon&ouml;ppnare. Andreas g&ouml;r ett tappert f&ouml;rs&ouml;k att definiera TypeScript och Anton ber&auml;ttar hur han l&ouml;ste ett CSS-problem genom att spela ett spel. Dessutom en kort &aring;terblick till f&ouml;rra m&aring;nadens avsnitt om SOLID samt hur det var n&auml;r panelen g&auml;stade podcasten Kodsnack.</p>
 
 <p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi gör blir vi väldigt glada om du recenserar oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
 <h4>L&auml;nkar</h4>
 <ul>
 <li><a href="http://kodsnack.se/194/" target="_blank">Kodsnack</a></li>

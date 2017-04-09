@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "6. Kompetensutveckling"
+date:   2017-04-10 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5250444/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+
+<p>I sj&auml;tte avsnittet av Still in beta pratar vi bland annat om f&ouml;rv&auml;ntningar innan jobbet, v&aring;r utbildning och kompetensutveckling vilket leder oss in p&aring; hur vi ser p&aring; karri&auml;r och framtid. Dessutom avsl&ouml;jar Amanda att hon vill vara en surrikat.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="http://kodsnack.se/194/" target="_blank">Still in beta i Kodsnack</a></li>
+<li><a href="http://www.uu.se/utbildning/utbildningar/selma/program/?pKod=SSY1K" target="_blank">Systemvetenskap p&aring; Uppsala Universitet</a></li>
+<li><a href="http://disk.systemvetardagen.com" target="_blank">Systemvetardagen</a></li>
+<li><a href="https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&amp;get_params=p_exam_id:1Z0-808" target="_blank">Java SE 8 Programmer I</a></li>
+<li><a href="https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&amp;get_params=p_exam_id:1Z0-809" target="_blank">Java SE 8 Programmer II</a></li>
+<li><a href="https://www.pluralsight.com" target="_blank">Pluralsight</a></li>
+<li><a href="https://www.microsoft.com/en-us/learning/mcsa-web-applications-certification.aspx" target="_blank">MCSA: Web Applications</a></li>
+<li><a href="https://www.microsoft.com/en-us/learning/exam-70-480.aspx" target="_blank">70-480 - Programming in HTML5 with JavaScript and CSS3</a></li>
+<li><a href="https://www.microsoft.com/en-us/learning/exam-70-486.aspx" target="_blank">70-486 - Developing ASP.NET MVC Web Applications</a></li>
+<li><a href="https://mvp.microsoft.com" target="_blank">Microsoft MVP</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

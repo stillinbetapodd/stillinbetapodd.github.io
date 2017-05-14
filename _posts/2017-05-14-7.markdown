@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "7. Design Patterns"
+date:   2017-05-14 14:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5354143/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+
+<p>Idag pratar vi framf&ouml;rallt om tre olika design patterns; Chain of responsibility, Observer och Strategy; men ocks&aring; om hur man g&ouml;r f&ouml;r att komma ig&aring;ng med webbutveckling och vad man egentligen ska fokusera p&aring;. Dessutom &aring;teruppst&aring;r m&aring;nadens tips!</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="http://www.du.se/Utbildning/Utbildningsprogram/IT-sakerhet-och-mjukvarutestningsprogrammet/" target="_blank">IT-säkerhet och mjukvarutestning</a></li>
+<li><a href="https://www.sublimetext.com" target="_blank">Sublime Text</a></li>
+<li><a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
+<li><a href="https://notepad-plus-plus.org" target="_blank">Notepad++</a></li>
+<li><a href="https://atom.io" target="_blank">Atom</a></li>
+<li><a href="http://www.wampserver.com/en/" target="_blank">WAMP</a></li>
+<li><a href="https://www.mamp.info" target="_blank">MAMP</a></li>
+<li><a href="https://firebase.google.com" target="_blank">Firebase</a></li>
+<li><a href="http://www.goodreads.com/book/show/85009.Design_Patterns" target="_blank">Design Patterns-boken</a></li>
+<li><a href="http://ohshitgit.com" target="_blank">Ohshitgit.com</a></li>
+<li><a href="http://classicprogrammerpaintings.com" target="_blank">Classic Programmer Paintings</a></li>
+<li><a href="https://www.devrant.io" target="_blank">Devrant</a></li>
+<li><a href="https://xkcd.com/386/" target="_blank">När någon har fel på internet</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "9. Första konferensen"
+date:   2017-07-10 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5520522/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Anton har varit p&aring; sin f&ouml;rsta konferens och ber&auml;ttar hur det var. Vilka sessioner var b&auml;st? Hur var maten? Lyckades han mingla n&aring;got? Dessutom pratar vi om en annan konferens, javascriptramverket Vue och ett alternativ till Visual Studio.</p>
+<p>Under avsnittet lyckades även Anton med konststycket att både ha fel om vilket land skaparen av Vue kommer ifrån och att det skulle vara en svensk som skapat Pomodorotekniken. Var snälla och skäll bara lagom mycket på honom.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="http://www.devsum.se" target="_blank">DevSum</a></li>
+<li><a href="http://m-b.se" target="_blank">Münchenbryggeriet</a></li>
+<li><a href="http://aurelia.io" target="_blank">Aurelia</a></li>
+<li><a href="https://angular.io" target="_blank">Angular</a></li>
+<li><a href="https://cirillocompany.de/pages/pomodoro-technique" target="_blank">Pomodorotekniken</a></li>
+<li><a href="https://monotasking.blog" target="_blank">Monotasking</a></li>
+<li><a href="https://twitter.com/staffannoteberg" target="_blank">Staffan Nöteberg</a></li>
+<li><a href="https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder" target="_blank">Påminnelser i Slack</a></li>
+<li><a href="https://twitter.com/fekberg" target="_blank">Filip Ekberg</a></li>
+<li><a href="https://twitter.com/simonbrown" target="_blank">Simon Brown</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pizza_(programming_language)" target="_blank">PIZZA</a></li>
+<li><a href="https://github.com/lhartikk/ArnoldC" target="_blank">ArnoldC</a></li>
+<li><a href="https://www.meetup.com/Swenug-Stockholm/" target="_blank">Swenug Stockholm</a></li>
+<li><a href="https://ffconf.org" target="_blank">FFconf</a></li>
+<li><a href="https://vuejs.org" target="_blank">VueJS</a></li>
+<li><a href="https://twitter.com/youyuxi" target="_blank">Evan You (skaparen av Vue)</a></li>
+<li><a href="https://tonyfreed.blog/what-is-virtual-dom-c0ec6d6a925c" target="_blank">What is Virtual Dom?</a></li>
+<li><a href="https://www.pluralsight.com/courses/vuejs-getting-started" target="_blank">VueJS: Getting Started (Pluralsight)</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd" target="_blank">Vue DevTools</a></li>
+<li><a href="https://facebook.github.io/react/" target="_blank">React</a></li>
+<li><a href="https://pugjs.org" target="_blank">Pug</a></li>
+<li><a href="https://www.jetbrains.com/rider/" target="_blank">Rider</a></li>
+<li><a href="https://www.jetbrains.com/resharper/" target="_blank">ReSharper</a></li>
+<li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ</a></li>
+<li><a href="https://leanpub.com/software-architecture-for-developers" target="_blank">Software Architecture for Developers</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "10. Clean Code"
+date:   2017-08-14 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5637526/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>I det tionde avsnittet av Still in beta pratar vi om de f&ouml;rsta tv&aring; avsnitten i boken Clean Code av Robert C Martin. Vad &auml;r egentligen "ren" kod och hur lyckas man skriva bra namn p&aring; variabler, funktioner och klasser? Dessutom motsatsen till "boy scout rule", kodblindhet och sj&auml;lvklart n&aring;gra tips!</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://twitter.com/youyuxi" target="_blank">Evan You</a></li>
+<li><a href="https://twitter.com/staffannoteberg" target="_blank">Staffan N&ouml;teberg</a></li>
+<li><a href="https://www.jetbrains.com/rider/" target="_blank">Project Rider</a></li>
+<li><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code</a></li>
+<li><a href="https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959" target="_blank">The Mythical Man Month</a></li>
+<li><a href="https://martinfowler.com/bliki/TwoHardThings.html" target="_blank">Om naming things-citatet</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=DanielGriffen.WhackWhackTerminal" target="_blank">WhackWhack Terminal</a></li>
+<li><a href="https://insomnia.rest" target="_blank">Insomnia.rest</a></li>
+<li><a href="https://javascript30.com" target="_blank">Javascript30</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

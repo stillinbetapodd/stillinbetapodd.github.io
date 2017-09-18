@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "11. Lär man sig något?"
+date:   2017-09-18 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5747101/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Vi t&auml;nker tillbaka p&aring; v&aring;rt f&ouml;rsta &aring;r som systemutvecklare och konsulter. Vad har vi l&auml;rt oss? Har vi ens l&auml;rt oss n&aring;gonting? Vi reflekterar om allt mellan konsultm&auml;ssighet, AWs, att inte k&auml;nna sig som en bluff och vikten av att utvecklas j&auml;mf&ouml;rt med att trivas d&auml;r man &auml;r.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://www.typing.com/" target="_blank">Typing</a></li>
+<li><a href="https://www.microsoft.com/net/learn/architecture" target="_blank">.NET Application Architecture e-books</a></li>
+<li><a href="http://prefix.io" target="_blank">Prefix.io</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "12. Clean Code: Funktioner & Kommentarer"
+date:   2017-10-16 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5842209/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Hur m&aring;nga parametrar ska en funktion egentligen ha? Vad &auml;r den b&auml;sta l&auml;ngden p&aring; en funktion? Kan funktioner bli f&ouml;r korta? Kommentarer &auml;r v&auml;l alltid bra att ha, eller? Vi forts&auml;tter prata om Robert C. Martins bok Clean Code och i detta avsnitt g&aring;r vi igenom kapitlen om funktioner och kommentarer.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://twitter.com/stillinbetapodd/status/914916344444923904" target="_blank">Avsnittets "studio"</a></li>
+<li><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code</a></li>
+<li><a href="https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29" target="_blank">Small functions considered harmful</a></li>
+<li><a href="http://play.elevatorsaga.com" target="_blank">Elevator Saga</a></li>
+<li><a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank">Fun Fun Function</a></li>
+<li><a href="http://code-cracker.github.io" target="_blank">Code Cracker</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

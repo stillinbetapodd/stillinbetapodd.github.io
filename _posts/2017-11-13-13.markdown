@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "13. Vad heter POJO på andra språk?"
+date:   2017-11-13 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5937295/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Vi pratar om allt mellan Andreas nya jobb och feedback fr&aring;n f&ouml;rra avsnittet till programmeringsspel och mobbprogrammering. Vad tj&auml;nar man egentligen p&aring; att sitta flera personer och skriva kod tillsammans?</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://leetspeak.se/" target="_blank" rel="noopener">Leetspeak</a></li>
+<li><a href="https://kidspeak.se/" target="_blank" rel="noopener">Kidspeak</a></li>
+<li><a href="https://twitter.com/cyberlane" target="_blank" rel="noopener">Justin Nel</a></li>
+<li><a href="http://www.devsum.se/" target="_blank" rel="noopener">DevSum</a></li>
+<li><a href="http://zty.pe/" target="_blank" rel="noopener">ZType</a></li>
+<li><a href="http://www.zachtronics.com/tis-100/" target="_blank" rel="noopener">TIS-100</a></li>
+<li><a href="https://www.hanselminutes.com/" target="_blank" rel="noopener">Hanselminutes</a></li>
+<li><a href="https://twitter.com/shanselman" target="_blank" rel="noopener">Scott Hanselman</a></li>
+<li><a href="https://vimium.github.io/" target="_blank" rel="noopener">Vimium</a></li>
+<li><a href="https://adventofcode.com/" target="_blank" rel="noopener">Advent of Code</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10. Clean Code"
+title:  "10. Clean Code: Ren kod & namn"
 date:   2017-08-14 05:00:00 +0100
 categories: avsnitt
 ---

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "14. I teorin är jag halvvägs"
+date:   2017-12-04 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6005428/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Vi pratar med <a href="https://twitter.com/chrokh" target="_blank" rel="noopener">Christopher Okhravi</a> om att l&auml;ra ut programmering, b&aring;de inom skolv&auml;rlden och p&aring; hans youtubekanal. Dessutom ergonomi f&ouml;r utvecklare, varf&ouml;r han anv&auml;nder Vim, hur universitets roll som central kunskapsk&auml;lla ser ut i framtiden och mycket mycket annat.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://twitter.com/chrokh" target="_blank">Christopher Okhravi</a></li>
+<li><a href="https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg" target="_blank">Christophers YouTubekanal</a></li>
+<li><a href="http://www.spray.se" target="_blank">Spray.se</a></li>
+<li><a href="https://ergodox-ez.com" target="_blank">ErgoDox</a></li>
+<li><a href="http://www.vim.org" target="_blank">Vim</a></li>
+<li><a href="https://vim-adventures.com" target="_blank">Vim adventures</a></li>
+<li><a href="https://vimium.github.io" target="_blank">Vimium</a></li>
+<li><a href="https://stackblitz.com" target="_blank">StackBlitz</a></li>
+<li><a href="https://jsfight.club" target="_blank">Javascript Fight Club</a></li>
+<li><a href="https://internetworld.idg.se/2.1006/1.679777/ashkan-fardost-webbdagarna" target="_blank">Ashkan Fardost: Därför har vi missförstått hela poängen med digitalisering</a></li>
+<li><a href="https://www.adlibris.com/se/bok/black-box-thinking-9781473613782" target="_blank">Black Box Thinking</a></li>
+<li><a href="https://www.youtube.com/watch?v=vmZMnIbMTvM" target="_blank">Christophers avsnitt när han pratar om boken Blackbox thinking</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

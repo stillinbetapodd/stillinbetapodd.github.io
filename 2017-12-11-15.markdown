@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "14. Tryck bara lite så funkar det"
+date:   2017-12-11 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6029881/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Fredrik Norm&eacute;n g&auml;star och pratar om att g&aring; p&aring; konferenser i allm&auml;nhet och att prata på konferenser i synnerhet. Hur f&aring;r man ut s&aring; mycket som m&ouml;jligt av en konferens? Hur b&ouml;rjar man prata p&aring; konferenser och hur g&aring;r det egentligen till? Detta avsnitt har vi dessutom extra m&aring;nga tips s&aring; missa inte!</p>
+<p>Avsnittet &auml;r till v&aring;r gl&auml;dje sponsrat av Swetugg, en konferens f&ouml;r utvecklare av utvecklare. Den anordnas &aring;rligen i Stockholm, och 2018 g&aring;r den av stapeln 8-9 februari med &ouml;ver 40 talare som kommer prata om b&aring;de h&aring;rda och mjuka &auml;mnen p&aring; m&aring;nga olika kunskapsniv&aring;er. <br />L&auml;s mer p&aring; <a href="https://swetugg.se/">https://swetugg.se/</a></p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://twitter.com/fredrikn" target="_blank" rel="noopener">Fredrik Norm&eacute;n</a> (<a href="mailto:fredrik.normen@squeed.com">mail</a>)</li>
+<li><a href="https://swetugg.se/" target="_blank" rel="noopener">Swetugg</a></li>
+<li><a href="https://www.youtube.com/watch?v=Eu35xM76kKY" target="_blank" rel="noopener">FunFunFunctions avsnitt om enhetstestning</a></li>
+<li><a href="https://hoverfly.io" target="_blank" rel="noopener">Hoverfly</a></li>
+<li><a href="https://swetugg.se/swetugg-2018/speakers/fredrik-normen" target="_blank" rel="noopener">Fredriks kommande tal om Hoverfly</a></li>
+<li><a href="https://github.com/fredrikn/hoverfly-dotnet" target="_blank" rel="noopener">Hoverfly-dotnet</a></li>
+<li><a href="https://teletype.atom.io" target="_blank" rel="noopener">Atom Teletype</a></li>
+<li><a href="https://code.visualstudio.com/blogs/2017/11/15/live-share" target="_blank" rel="noopener">Visual Studio Live Share</a></li>
+<li><a href="https://www.codehunt.com" target="_blank" rel="noopener">Code Hunt</a></li>
+<li><a href="https://quokkajs.com" target="_blank" rel="noopener">Quokka.js</a></li>
+<li><a href="http://beyondbulletpoints.com" target="_blank" rel="noopener">Beyond Bullet Points</a></li>
+<li><a href="http://www.ncrunch.net" target="_blank" rel="noopener">NCrunch</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "16. Jag har kvar mina kompisars CVn"
+date:   2018-01-16 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6152028/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>I 2018s f&ouml;rsta avsnitt pratar vi om allt mellan Amandas backupbekymmer, vad Anton har gjort under en tredjedel av sitt arbetsliv och hur vi ser p&aring; ny&aring;rsl&ouml;ften.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://www.elastic.co/products/elasticsearch" target="_blank">ElasticSearch</a></li>
+<li><a href="https://lucene.apache.org" target="_blank">Lucene</a></li>
+<li><a href="https://github.com/elastic/elasticsearch-net" target="_blank">ElasticSearch NEST</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SMART_criteria" target="_blank">"SMARTa" mål</a></li>
+<li><a href="https://www.plex.tv/" target="_blank">Plex</a></li>
+<li><a href="https://kodi.tv" target="_blank">Kodi</a></li>
+<li><a href="https://www.wdc.com/products/personal-cloud-storage/my-cloud-home.html" target="_blank">MyCloud Home</a></li>
+<li><a href="http://gulftech.org/advisories/WDMyCloud%20Multiple%20Vulnerabilities/125" target="_blank">MyCloud säkerhetsbrister</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer" target="_blank">Bracket Pair Colorizer</a></li>
+<li><a href="https://www.dwitter.net" target="_blank">Dwitter</a></li>
+<li><a href="https://codegolf.stackexchange.com" target="_blank">Code Golf</a></li>
+<li><a href="https://bitstorm.org/gameoflife/" target="_blank">Conways Game of Life</a></li>
+<li><a href="https://twitter.com/i/moments/880688233641848832" target="_blank">Little UI Details</a></li>
+<li><a href="https://swetugg.se/swetugg-2018" target="_blank">Swetugg</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

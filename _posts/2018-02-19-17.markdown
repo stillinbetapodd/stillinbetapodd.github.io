@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "17. Favoritpresentationen"
+date:   2018-02-19 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6278277/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Anton och Amanda pratar bland annat om sina favoritpresentationer fr&aring;n ett par konferenser de bes&ouml;kt, vilket leder dem in p&aring; git, java, html och mycket mer.</p>
+<p>Tyv&auml;rr hade vi lite strul med ljudet som g&ouml;r att det klipper lite ibland, framf&ouml;rallt i slutet, vilket vi ber s&aring; hemskt mycket om urs&auml;kt f&ouml;r!</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://swetugg.se" target="_blank" rel="noopener">Swetugg</a></li>
+<li><a href="https://www.jfokus.se/" target="_blank" rel="noopener">Jfokus</a></li>
+<li><a href="https://azure.microsoft.com/sv-se/services/cognitive-services/" target="_blank" rel="noopener">Azure Cognitive Services</a></li>
+<li><a href="https://www.tobii.com" target="_blank" rel="noopener">Tobii</a></li>
+<li><a href="http://unity.com" target="_blank" rel="noopener">Unity</a></li>
+<li><a href="https://twitter.com/mkheck" target="_blank" rel="noopener">Mark Heckler</a></li>
+<li><a href="http://www.jfokus.se/jfokus18/preso/Springing-into-Kotlin.pdf" target="_blank" rel="noopener">Springing into Kotlin</a></li>
+<li><a href="https://spring.io" target="_blank" rel="noopener">Spring</a></li>
+<li><a href="https://kotlinlang.org" target="_blank" rel="noopener">Kotlin</a></li>
+<li><a href="https://twitter.com/ecampidoglio" target="_blank" rel="noopener">Enrico Campidoglio</a></li>
+<li><a href="https://git-scm.com" target="_blank" rel="noopener">Git</a></li>
+<li><a href="https://www.youtube.com/watch?v=mdvlu_R8EWE" target="_blank" rel="noopener">Git from the bits up</a></li>
+<li><a href="http://pluralsight.com" target="_blank" rel="noopener">PluralSight</a></li>
+<li><a href="https://www.visualstudio.com/dev-essentials/" target="_blank" rel="noopener">Visual Studio Dev Essentials</a></li>
+<li><a href="https://twitter.com/kolombiken" target="_blank" rel="noopener">Ida Franceen</a></li>
+<li><a href="https://www.nvaccess.org" target="_blank" rel="noopener">NVDA</a></li>
+<li><a href="http://www.freedomscientific.com/Products/Blindness/JAWS" target="_blank" rel="noopener">JAWS</a></li>
+<li><a href="https://docs.microsoft.com/en-us/sql/sql-operations-studio/what-is" target="_blank" rel="noopener">SQL Operations Studio</a></li>
+<li><a href="https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949" target="_blank" rel="noopener">En killes vision om web 3.0</a></li>
+<li><a href="https://twitter.com/DJ_Link/status/964124424969637888" target="_blank" rel="noopener">Tokiga workarounds i spel</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

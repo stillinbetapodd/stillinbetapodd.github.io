@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "18. Andra sidan av intervjun"
+date:   2018-03-19 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6366158/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Anton och Andreas pratar om deras erfarenheter av att vara p&aring; andra sidan en intervju. Hur &auml;r det egentligen att f&ouml;rs&ouml;ka bed&ouml;ma personer efter b&auml;sta f&ouml;rm&aring;ga och vad &auml;r det som ger Anton &aring;ngest? Dessutom Angularinspirerade Node.js-ramverk samt en gnutta m&aring;ngfald.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://dev.to/ben/its-perfectly-fine-to-only-code-at-work-dont-let-anyone-tell-you-otherwise--25i3" target="_blank" rel="noopener">"It's perfectly fine to only code at work, don't let anyone tell you otherwise."</a></li>
+<li><a href="https://nestjs.com" target="_blank" rel="noopener">Nest.js</a></li>
+<li><a href="https://nodejs.org/" target="_blank" rel="noopener">Node.js</a></li>
+<li><a href="https://expressjs.com" target="_blank" rel="noopener">Express.js</a></li>
+<li><a href="https://www.asp.net" target="_blank" rel="noopener">ASP.NET</a></li>
+<li><a href="https://projects.spring.io/spring-boot/" target="_blank" rel="noopener">Spring Boot</a></li>
+<li><a href="https://angular.io" target="_blank" rel="noopener">Angular</a></li>
+<li><a href="https://angularjs.org" target="_blank" rel="noopener">Angular.js</a></li>
+<li><a href="https://www.typescriptlang.org" target="_blank" rel="noopener">Typescript</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg" target="_blank" rel="noopener">Anders Hejlsberg</a></li>
+<li><a href="https://babeljs.io" target="_blank" rel="noopener">Babel.js</a></li>
+</ul>
+[Se alla avsnitt.](/)

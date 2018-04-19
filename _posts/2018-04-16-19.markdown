@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "19. Versionshantering"
+date:   2018-04-16 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6481874/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Amanda &auml;r tillbaka och hela g&auml;nget dyker ner i tr&auml;sket som &auml;r versionshantering. Fr&aring;n uppsats-v2-final.docx till Andreas "forkande" och Antons TFVC-&gt;git-migrering. Dessutom ett helg g&auml;ng med h&auml;rliga tips!</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://git-scm.com" target="_blank" rel="noopener">Git</a></li>
+<li><a href="https://subversion.apache.org" target="_blank" rel="noopener">Subversion</a></li>
+<li><a href="https://docs.microsoft.com/en-us/vsts/tfvc/overview?view=vsts#team-foundation-version-control" target="_blank" rel="noopener">Team Foundation Version Control (TFVC)</a></li>
+<li><a href="https://www.visualstudio.com/tfs/" target="_blank" rel="noopener">Team Foundation Server (TFS)</a></li>
+<li><a href="https://www.visualstudio.com/team-services/" target="_blank" rel="noopener">Visual Studio Team Services (VSTS)</a></li>
+<li><a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank" rel="noopener">A successful git branching model</a></li>
+<li><a href="https://github.com" target="_blank" rel="noopener">Github</a></li>
+<li><a href="http://www.zsh.org/" target="_blank" rel="noopener">Zsh</a></li>
+<li><a href="https://www.quora.com/What-is-the-difference-between-bash-and-zsh" target="_blank" rel="noopener">Bash vs Zsh</a></li>
+<li><a href="http://ohmyz.sh/" target="_blank" rel="noopener">Oh my zsh</a></li>
+<li><a href="http://gitup.co" target="_blank" rel="noopener">Gitup</a></li>
+<li><a href="https://octopus.com" target="_blank" rel="noopener">Octupus deploy</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

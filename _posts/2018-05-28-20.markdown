@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "20. Versionshantering"
+date:   2018-05-29 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/-----/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>I en v&auml;ldigt varm l&auml;genhet pratar Anton och Amanda bland annat om att Amanda har tagit ett javacertifikat och att Anton bygger om sitt hobbyprojekt f&ouml;r tredje g&aring;ngen. Dessutom som vanligt "veckans" tips!</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://jenkins.io" target="_blank" rel="noopener">Jenkins</a></li>
+<li><a href="https://www.docker.com" target="_blank" rel="noopener">Docker</a></li>
+<li><a href="https://beta.developer.spotify.com/documentation/web-api/" target="_blank" rel="noopener">Spotify API</a></li>
+<li><a href="https://github.com/anton-g/quizify" target="_blank" rel="noopener">Antons hobbyprojekt Quizify</a></li>
+<li><a href="https://nestjs.com" target="_blank" rel="noopener">NestJS</a></li>
+<li><a href="https://vuejs.org" target="_blank" rel="noopener">Vue</a></li>
+<li><a href="https://angular.io" target="_blank" rel="noopener">Angular</a></li>
+<li><a href="https://musicbrainz.org" target="_blank" rel="noopener">Musicbrainz</a></li>
+<li><a href="https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808" target="_blank" rel="noopener">Java SE 8 Programmer I</a></li>
+<li><a href="https://github.com/tldr-pages/tldr-node-client" target="_blank" rel="noopener">tldr pages</a></li>
+<li><a href="https://www.meetup.com" target="_blank" rel="noopener">Meetup</a></li>
+<li><a href="http://www.devsum.se" target="_blank" rel="noopener">Devsum</a></li>
+<li><a href="https://techworld.event.idg.se/event/summit/" target="_blank" rel="noopener">Techworld Summit</a></li>
+</ul>
+
+[Se alla avsnitt.](/)

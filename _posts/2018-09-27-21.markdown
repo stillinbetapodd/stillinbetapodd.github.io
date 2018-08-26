@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "21. Det borde blivit bättre än förr"
+date:   2018-09-27 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6969631/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+<p>Anton &amp; Amanda &auml;r tillbaka efter semesteruppeh&aring;llet med ett extra l&aring;ngt och matigt avsnitt. Amanda g&aring;r igenom hennes senaste kompetensutvecklingsuppgift och vad 'Kafka' &auml;r f&ouml;r n&aring;got medan Anton k&auml;mpat med att publicera n&aring;got utan continues delivery.</p>
+<p>Vi som driver Still in beta &auml;r Anton Gunnarsson, Amanda Sj&ouml;str&ouml;m och Andreas Lundgren. Har du kommentarer, fr&aring;gor eller tips? H&ouml;r g&auml;rna av dig till oss p&aring;&nbsp;<a href="http://twitter.com/stillinbetapodd">@stillinbetapodd</a>&nbsp;eller&nbsp;<a href="mailto:info@stillinbeta.se">info@stillinbeta.se</a>.</p>
+<p>Om du tycker om det vi g&ouml;r blir vi v&auml;ldigt glada om du recenserar och prenumererar p&aring; oss i <a href="https://itunes.apple.com/se/podcast/id1174070946">iTunes</a>.</p>
+<h4>L&auml;nkar</h4>
+<ul>
+<li><a href="https://kafka.apache.org" target="_blank" rel="noopener">Kafka</a></li>
+<li><a href="https://www.rabbitmq.com" target="_blank" rel="noopener">RabbitMQ</a></li>
+<li><a href="https://www.confluent.io" target="_blank" rel="noopener">Confluent</a></li>
+<li><a href="http://identityserver.io" target="_blank" rel="noopener">IdentityServer</a></li>
+<li><a href="http://zookeeper.apache.org" target="_blank" rel="noopener">ZooKeeper</a></li>
+<li><a href="http://hadoop.apache.org" target="_blank" rel="noopener">Hadoop</a></li>
+<li><a href="https://spark.apache.org" target="_blank" rel="noopener">Spark</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Domain-specific_language" target="_blank" rel="noopener">Domain-Specific Language</a></li>
+<li><a href="https://xkcd.com/927/" target="_blank" rel="noopener">xkcd: standards</a></li>
+<li><a href="https://visualstudio.microsoft.com/team-services/" target="_blank" rel="noopener">Visual Studio Team Services</a></li>
+<li><a href="https://zeit.co" target="_blank" rel="noopener">Zeit</a></li>
+<li><a href="https://vimeo.com/98922030" target="_blank" rel="noopener">Mouseless Driven Development by Hadi Hariri</a></li>
+<li><a href="https://www.gatsbyjs.org" target="_blank" rel="noopener">Gatsby</a></li>
+</ul>
+[Se alla avsnitt.](/)

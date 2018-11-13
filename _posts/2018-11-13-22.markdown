@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "22. 1.0"
+date:   2018-11-13 05:00:00 +0100
+categories: avsnitt
+---
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/7517588/height/26/width/400/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="26" width="400" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<p>Lyssna via <a href="https://itunes.apple.com/se/podcast/still-in-beta/id1174070946">iTunes</a> eller <a href="http://stillinbeta.libsyn.com/rss">RSS</a></p>
+
+<p>I detta <strong>sista</strong> avsnitt av Still in beta pratar vi bland annat om att avsluta projekt, att v&aring;ga, att inte avsluta projekt, Antons quizhemsida, Amandas relation till finlandssvenska och inte minst om vilka fantastiska &aring;r vi haft med podden.</p>
+<p>Tack till alla lyssnare, alla som gett feedback, alla som st&auml;llt fr&aring;gor och alla som p&aring; n&aring;got s&auml;tt varit involverade i podden, ni &auml;r b&auml;st!</p>
+<p>Vi ses i sajberrymden!</p>
+[Se alla avsnitt.](/)
